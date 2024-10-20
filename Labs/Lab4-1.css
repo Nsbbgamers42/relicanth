@@ -7,14 +7,15 @@ body{
   width: 800px;
   margin:0 auto;
   background-color: white
+  height: 600px;
 }
 
 #header{
 height: 50px;
 text-align: center;
 background-color: red;
-
 }
+
 
 #leftbody{
   width: 800px;
@@ -29,4 +30,5 @@ background-color: red;
   height: 50px;
   background-color: blue;
   clear: both;
+  text-align: center;
 }
