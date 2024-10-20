@@ -3,8 +3,13 @@
 }
 
 .bigtext{
-  font-size:15px;
+  font-size:300%;
 }
+
+.smalltext{
+  font-size: 20%;
+}
+
 
 .roman{
   font-family:serif;
