@@ -2,21 +2,18 @@
   color:blue;
 }
 
-.bigtext{
-  font-size:300%;
+#bigtext{
+  font-size-adjust: :50px;
 }
 
-.smalltext{
-  font-size: 20%;
+#smalltext{
+  font-size-adjust: : 10px;
 }
 
 
-.roman{
-  font-family:serif;
-}
 
 .large{
-  text-transform:capitalize;
+  text-transform:uppercase;
 }
 
 .fix{
@@ -26,7 +23,9 @@
 
 .absol{
   position: absolute;
+text-align: left;
 }
+
 
 .relate{
   position: relative;
@@ -37,7 +36,7 @@ h1,h2,h3{
   color:green;
 }
 
-.mark p{
+.marked p{
   color: purple;
 }
 
@@ -46,6 +45,7 @@ h1,h2,h3{
   margin-right: 15%;
   margin-top: 15%;
   margin-bottom: 15%;
+margin: blue;
   border: black;
   border-width: 3px;
   border-style: solid;
