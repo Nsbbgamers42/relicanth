@@ -1,16 +1,20 @@
 .bluetext{
   color:blue;
+
 }
 
 .bigtext{
-  font-size: 50px;
+  font-size-adjust: 50px;
+
 }
 
 .smalltext{
-  font-size: 10px;
+  font-size-adjust: 10px;
+
 }
 .large{
   text-transform:uppercase;
+
 }
 
 .fix{
