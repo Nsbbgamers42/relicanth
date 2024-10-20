@@ -3,15 +3,12 @@
 }
 
 .bigtext{
-  font-size-adjust: 50px;
+  font-size: 50px;
 }
 
 .smalltext{
-  font-size-adjust: 10px;
+  font-size: 10px;
 }
-
-
-
 .large{
   text-transform:uppercase;
 }
