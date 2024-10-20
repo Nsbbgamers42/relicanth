@@ -1,0 +1,53 @@
+.bluetext{
+  color:blue;
+}
+
+.bigtext{
+  font-size:15px;
+}
+
+.roman{
+  font-family:serif;
+}
+
+.large{
+  text-transform:capitalize;
+}
+
+.fix{
+  position: fixed;
+
+}
+
+.absol{
+  position: absolute;
+}
+
+.relate{
+  position: relative;
+  top: 40px; left: 40px;
+}
+
+h1,h2,h3{
+  color:green;
+}
+
+.mark p{
+  color: purple;
+}
+
+#photo{
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  border: black;
+  border-width: 3px;
+  border-style: solid;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+
+
+}
