@@ -1,0 +1,52 @@
+body{
+  color: white;
+  background-color: black;
+
+}
+
+.wrapper{
+
+  width: 1000px;
+  background-color: white;
+  margin: 0 auto;
+
+}
+
+.header{
+  height: 50px;
+  text-align: center;
+  background-color: red;
+  padding: 10px;
+}
+
+.leftbody1{
+  height: 500px;
+  width: 700px;
+  background-color: red;
+  float: left;
+  padding: 10px;
+}
+
+.rightbody{
+height: 1000px;
+width: 300px;
+background-color: white;
+float: left;
+padding: 10px;
+
+}
+
+.leftbody2{
+ height: 500px;
+ width: 700px;
+ background-color: red;
+ float: left;
+ padding: 10px;
+}
+
+.footer{
+  height: 50px;
+  text-align: center;
+  background-color: red;
+padd
+}
