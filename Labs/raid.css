@@ -1,0 +1,144 @@
+body{
+  background-color: black;
+}
+
+.wrapper{
+  width: 800px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.header{
+  height: 70px;
+  text-align: center;
+  background-color: blue;
+}
+
+
+.leftbody{
+  height: 600px;
+  width: 200px;
+  background-color: darkblue;
+  float: left;
+}
+
+#rightbody{
+  height: 600px;
+  width: 600px;
+  background-color: lightblue;
+  float: left;
+
+}
+
+.footer{
+  height: 70px;
+  text-align: left;
+  background-color: lightgreen;
+  clear: both;
+  padding: 10;
+}
+
+.reli{
+position: absolute;
+bottom: auto;
+left: 370px;
+
+
+}
+
+.relic{
+  position: absolute;
+  bottom: auto;
+  left: 1080px;
+}
+
+.head{
+  position: absolute;
+  top: 0px;
+  left: 650px;
+  font-size: 210%;
+  font-family: "papyrus", fantasy;
+  text-decoration: underline;
+
+}
+
+.egg{
+  position: absolute;
+bottom: auto;
+left: 560px;
+}
+
+.egg2{
+  position:absolute;
+  bottom:auto;
+  left: 920px;
+}
+
+.raid{
+  text-decoration: inherit;
+  text-align: center;
+  text-decoration-color: lightgrey;
+  font-family: "georgia", serif;
+  border-style: solid;
+  border-color: darkred;
+}
+
+#welcome{
+border-style: dotted;
+border-color: beige;
+border-width: thick;
+line-height: 1.5;
+font-size: 96%;
+text-align: center;
+}
+
+.kanto{
+  position: absolute;
+  bottom: 51px;
+  left: 650px;
+}
+
+.raids{
+  position: absolute;
+  bottom:auto;
+  left: 370px;
+  top: 500px;
+}
+
+.shinyrate{
+ position: absolute;
+ bottom: 1px;
+ left: 550px;
+}
+
+.info{
+border-style: dashed;
+border-color: darkgreen;
+border-width: thick;
+line-height: 1.7;
+font-size: 120%;
+position: absolute;
+font-weight: bold;
+text-decoration: underline;
+
+
+}
+
+
+.directory{
+ position: absolute;
+ bottom: 1px;
+ left: 700px;
+}
+
+.channel{
+ position: absolute;
+ bottom: 1px;
+ left: 900px;
+}
+
+.pfp{
+  position: absolute;
+  bottom: -18px;
+  left: 1070px;
+}
